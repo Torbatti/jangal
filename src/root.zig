@@ -1,4 +1,5 @@
 pub const tardy = @import("tardy");
+pub const jaio = @import("jaio/root.zig");
 
 pub const nbt = @import("nbt/root.zig");
 
