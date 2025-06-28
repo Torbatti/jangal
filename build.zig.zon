@@ -37,8 +37,8 @@
     // internet connectivity.
     .dependencies = .{
         .tardy = .{
-            .url = "git+https://github.com/tardy-org/tardy?ref=main#a7a41ef5eaea2808096fe89506655ef42eb5f434",
-            .hash = "tardy-0.3.0-69wrggDqAwCSOeMQlWwOlNrCkyZdgu91kRCNpyYHrzOG",
+            .url = "git+https://github.com/torbatti/tardy?ref=main#f4362552bc557689da269e0e52f650c285a52fd0",
+            .hash = "tardy-0.3.0-69wrggDqAwBrbvkG9J-DXzCTwvA4o6_Q6cSI7_jTGYSk",
         },
     },
     .paths = .{
